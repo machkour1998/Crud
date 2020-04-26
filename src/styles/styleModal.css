@@ -1,0 +1,30 @@
+.btn .btn-primary{
+    background-color:red;
+    color:white;
+   
+}
+.labTitre{
+    color:#0f4c81;
+    margin-right: 10px;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.labIngrédients{
+    color:#0f4c81;
+    margin-right: 10px;
+    font-size: 15px;
+    font-weight: 700;
+}
+.labImage{
+    color:#0f4c81;
+    margin-right: 10px;
+    font-size: 15px;
+    font-weight: 700;
+}
+.modal-header{
+    background-color: #FFA07A;
+}
+.modal-footer{
+    background-color: #FFA07A;
+}

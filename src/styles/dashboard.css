@@ -1,0 +1,25 @@
+img{
+    height:200px;
+    width:400px;
+}
+.classtd{
+    height:200px;
+    width:500px;
+}
+.navbar{
+    background-color:#0f4c81;
+}
+.fa-edit{
+    color:#0f4c81;
+    cursor: pointer;
+}
+.titre{
+   color:#0f4c81;
+}
+.fa-trash{
+    cursor: pointer;
+    color:#DC143C;
+}
+
+
+ 
